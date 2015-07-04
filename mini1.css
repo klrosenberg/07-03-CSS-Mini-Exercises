@@ -1,0 +1,39 @@
+html{
+  margin: 0;
+  font-family: 'Georgia', 'Times', 'Times New Roman', serif
+}
+
+body{
+  width: 20%;
+  min-width: 200px;
+}
+
+h2{
+  margin: 0;
+  font-style: italic;
+}
+
+.text p{
+  margin: 0;
+}
+
+.author{
+  color: grey;
+  font-size: x-small;
+  line-height: 1px;
+}
+
+#rectangle {
+	width: 6px;
+	height: 5px;
+	background: #326891;
+  float: left;
+  margin-top: 4px;
+  margin-right: 2px;
+}
+
+.comments p{
+  color: #326891;
+  font-size: small;
+  margin: 0;
+}
