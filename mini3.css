@@ -1,0 +1,48 @@
+html{
+  margin: 0;
+  font-family: 'Georgia', 'Times', 'Times New Roman', serif
+}
+
+body{
+  width: 100%;
+}
+
+h2{
+  margin-top: 4px;
+  margin-bottom: 4px;
+  font-style: italic;
+  font-size: 12px;
+}
+
+
+.text p{
+  font-size: 12px;
+}
+
+.photo{
+  width: 150px;
+  margin-top: 3px;
+  margin-left: 3px;
+}
+
+.story1{
+  min-width: 160px;
+  max-width: 160px;
+  float: left;
+}
+
+.story2{
+  margin-right: 5px;
+  padding-left: 5px;
+  min-width: 160px;
+  max-width: 160px;
+  float: left;
+  border-left: thin solid #C7C9C9;
+  border-right: thin solid #C7C9C9;
+}
+
+.story3{
+  min-width: 160px;
+  max-width: 160px;
+  float: left;
+}
